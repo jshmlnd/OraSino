@@ -1,0 +1,74 @@
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.exe
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.deps.json
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.runtimeconfig.json
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.dll
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.pdb
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.Properties.Resources.resources
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.GenerateResource.cache
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AssemblyInfoInputs.cache
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AssemblyInfo.cs
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.dll
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\refint\ORASINO_DESKTOP.dll
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.pdb
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.genruntimeconfig.cache
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ref\ORASINO_DESKTOP.dll
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AccountLedgerForm.resources
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.LoginForm.resources
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyAccountForm.resources
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyClassesForm.resources
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyGradesForm.resources
+C:\Users\zavy\Desktop\ORASINO FILES\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyScheduleForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.exe
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.deps.json
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.runtimeconfig.json
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.dll
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.pdb
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AccountLedgerForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.LoginForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyAccountForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyClassesForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyGradesForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyScheduleForm.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.Properties.Resources.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.GenerateResource.cache
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AssemblyInfoInputs.cache
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AssemblyInfo.cs
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.CoreCompileInputs.cache
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.dll
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\refint\ORASINO_DESKTOP.dll
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.pdb
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.genruntimeconfig.cache
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ref\ORASINO_DESKTOP.dll
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.SideBar.resources
+E:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.ForgotPassword.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.exe
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.deps.json
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.runtimeconfig.json
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.dll
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\ORASINO_DESKTOP.pdb
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AccountLedgerForm.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.ForgotPassword.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.LoginForm.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyAccountForm.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyClassesForm.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyGradesForm.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.MyScheduleForm.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.Properties.Resources.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.SideBar.resources
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.GenerateResource.cache
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AssemblyInfoInputs.cache
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.AssemblyInfo.cs
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.CoreCompileInputs.cache
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.dll
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\refint\ORASINO_DESKTOP.dll
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.pdb
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.genruntimeconfig.cache
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ref\ORASINO_DESKTOP.dll
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_DESKTOP.csproj.AssemblyReference.cache
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+H:\ORASINO_DESKTOP\ORASINO_DESKTOP\obj\Debug\net8.0-windows\ORASINO_.5935419F.Up2Date
